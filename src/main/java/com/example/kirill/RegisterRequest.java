@@ -8,3 +8,4 @@ public class RegisterRequest {
 
     // constructors, getters and setters omitted for brevity
 }
+//fjf
